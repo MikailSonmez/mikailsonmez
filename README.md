@@ -110,7 +110,7 @@
  <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" width="auto">
   <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" width="auto">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" width="auto">
-
 </div>
+ 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/mikailsonmez/mikailsonmez/blob/output/github-contribution-grid-snake.gif)
